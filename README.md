@@ -54,6 +54,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [your-email@example.com](mailto:your-email@example.com)
+Your Name - [eriktaveras@gmail.com](mailto:eriktaveras@gmail.com)
 
-Project Link: [https://github.com/your-username/pixelclipper-website](https://github.com/eriktaveras/pixelclipper-website)
+Project Link: [https://github.com/eriktaveras/pixelclipper-website](https://github.com/eriktaveras/pixelclipper-website)
