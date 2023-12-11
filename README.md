@@ -1,2 +1,0 @@
-# pixel
-Website PixelClipper.com
