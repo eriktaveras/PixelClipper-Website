@@ -26,7 +26,7 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your-username/pixelclipper-website.git
+   git clone https://github.com/eriktaveras/pixelclipper-website.git
    ```
 2. Navigate to the project directory
    ```sh
@@ -56,4 +56,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [your-email@example.com](mailto:your-email@example.com)
 
-Project Link: [https://github.com/your-username/pixelclipper-website](https://github.com/your-username/pixelclipper-website)
+Project Link: [https://github.com/your-username/pixelclipper-website](https://github.com/eriktaveras/pixelclipper-website)
