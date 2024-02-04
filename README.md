@@ -38,7 +38,7 @@ Contributions, questions, and feedback are welcome to enhance the platform furth
 
 ## :envelope_with_arrow: Contact
 
-Reach out for collaborations or inquiries at `your_email@example.com`.
+Reach out for collaborations or inquiries at `eriktaveras@gmail.com`.
 
 ## :scroll: License
 
