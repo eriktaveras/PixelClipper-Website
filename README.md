@@ -1,5 +1,5 @@
 
-# PixelClipper: Professional Photo Editing Platform :camera_flash:
+# PixelClipper  :camera_flash:
 
 ![PHP](https://img.shields.io/badge/PHP-backend-blue.svg?style=flat-square&logo=php)
 ![HTML5](https://img.shields.io/badge/HTML5-frontend-orange.svg?style=flat-square&logo=html5)
