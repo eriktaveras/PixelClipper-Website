@@ -9,6 +9,7 @@
 **"Simple, Transparent, Professional - Redefining the art of photo editing. Efficient, precise, and tailored to your needs."**
 
 This project, PixelClipper, is a testament to my capabilities in full-stack web development, focusing on delivering high-quality photo editing solutions. It highlights my skills in PHP, HTML5, Tailwind CSS, and JavaScript, demonstrating my ability to create a dynamic and responsive web application that caters to the professional photo editing market.
+![939shots_so](https://github.com/eriktaveras/pixel/assets/10116703/76547305-09c7-481c-9389-84ff4b6256cf)
 
 ## :bulb: Key Features
 
